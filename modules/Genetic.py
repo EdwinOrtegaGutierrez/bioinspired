@@ -1,0 +1,2 @@
+def genetic():
+    print("Genetic")
