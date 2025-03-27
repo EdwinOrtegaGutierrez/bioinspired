@@ -1,6 +1,9 @@
 import random
 import math
 
+def simulatedAnnealing():
+     print("Simulated Annealing")
+    
 profesores = ['Prof1', 'Prof2', 'Prof3', 'Prof4']
 aulas = ['Aula1', 'Aula2', 'Aula3', 'Aula4']
 clases = ['Clase1', 'Clase2', 'Clase3', 'Clase4']
