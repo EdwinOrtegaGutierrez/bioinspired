@@ -28,5 +28,5 @@ sudo docker build -t webapp-streamlit .
 ```
 ## Run Image as Container
 ```bash
-sudo docker run -p 8080:8080 webapp-streamlit
+sudo docker run -d -p 8080:8080 webapp-streamlit
 ```
